@@ -1,2 +1,2 @@
 # NIFRYTN
-New Integrated Featured Random Y Text Number
+New Integrated Featured Random Y Text Numberable
